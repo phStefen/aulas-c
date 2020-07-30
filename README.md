@@ -1,4 +1,4 @@
-### [Meu Perfil](http://phstefen.github.io/)<img align="right" src="img/cpp.png" width="130"/>
+### [Meu Perfil](http://phstefen.github.io/)
 
 <img align="right" src="../../img/cpp.png" width="130"/>
 
