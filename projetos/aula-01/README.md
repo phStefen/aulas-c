@@ -1,3 +1,5 @@
+### [Meu Perfil](http://phstefen.github.io/)
+
 <img align="right" src="../../img/cpp.png" width="130"/>
 
 # Aula 01
@@ -7,6 +9,3 @@ Exercícios Simples de C++
 * [Média com Peso](https://github.com/phStefen/aulas-cpp/tree/master/projetos/aula-01/pedo.cpp)
 * [Salário com 25% de Aumento](https://github.com/phStefen/aulas-cpp/tree/master/projetos/aula-01/salario.cpp)
 * [Salário com x% de Aumento](https://github.com/phStefen/aulas-cpp/tree/master/projetos/aula-01/salario2.cpp)
-
-
-### [Meu Perfil](http://phstefen.github.io/)
