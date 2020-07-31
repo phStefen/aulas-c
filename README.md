@@ -1,6 +1,4 @@
-### [Meu Perfil](http://phstefen.github.io/)
-
-<img align="right" src="img/cpp.png" width="130"/>
+### [Meu Perfil <img align="right" src="img/cpp.png" width="130"/>](http://phstefen.github.io/)
 
 # Aulas de C++
 Estes são os repositórios das minhas aulas de C++
