@@ -1,4 +1,6 @@
-### [Meu Perfil <img align="right" src="../../img/cpp.png" width="130"/>](http://phstefen.github.io/)
+### [Meu Perfil](http://phstefen.github.io/)
+
+ <img align="right" src="../../img/cpp.png" width="130"/>
 
 # Aula 01
 Exercícios Simples de C++
