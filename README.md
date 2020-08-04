@@ -6,3 +6,4 @@
 Estes são os repositórios das minhas aulas de *C*
 
 * [Aula 01](https://github.com/phStefen/aulas-c/tree/master/projetos/aula-01/)
+* [Aula 02](https://github.com/phStefen/aulas-c/tree/master/projetos/aula-02/)
