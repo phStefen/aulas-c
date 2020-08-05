@@ -16,7 +16,7 @@ int main(){
 
     media = (n1+n2+n3)/3;
 
-    printf("\nA Media foi: %.2f",mediasdasdasda);
+    printf("\nA Media foi: %.2f",media);
 
     return 0;
 }
