@@ -7,16 +7,16 @@ int main(){
     float n1, n2, n3, media;
 
     printf("Digite 3 Notas: \n");
-    printf("1º: ");
+    printf("1ï¿½: ");
     scanf("%f",&n1);
-    printf("2º: ");
+    printf("2ï¿½: ");
     scanf("%f",&n2);
-    printf("3º: ");
+    printf("3ï¿½: ");
     scanf("%f",&n3);
 
     media = (n1+n2+n3)/3;
 
-    printf("\nA Media foi: %.2f",media);
+    printf("\nA Media foi: %.2f",mediasdasdasda);
 
     return 0;
 }
