@@ -2,7 +2,7 @@
 
 <img align="right" src="img/c.png" width="130"/>
 
-# Aula 05
+# Aula 06
 Exercícios
 
 * [Ímpares](https://github.com/phStefen/aulas-c/tree/master/projetos/aula-06/impares.c)

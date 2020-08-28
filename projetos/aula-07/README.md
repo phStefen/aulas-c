@@ -2,10 +2,13 @@
 
 <img align="right" src="img/c.png" width="130"/>
 
-# Aula 05
+# Aula 07
 Exercícios
 
-* [Ímpares](https://github.com/phStefen/aulas-c/tree/master/projetos/aula-06/impares.c)
-* [Múltiplos de 8](https://github.com/phStefen/aulas-c/tree/master/projetos/aula-06/multiplos.c)
+* [Calculadora](https://github.com/phStefen/aulas-c/tree/master/projetos/aula-07/calculadora.c)
+* [Data](https://github.com/phStefen/aulas-c/tree/master/projetos/aula-07/data.c)
+* [Maior Data](https://github.com/phStefen/aulas-c/tree/master/projetos/aula-07/maiorData.c)
+* [Ordem de Valores](https://github.com/phStefen/aulas-c/tree/master/projetos/aula-07/ordem.c)
+* [Par ou Ímpar](https://github.com/phStefen/aulas-c/tree/master/projetos/aula-07/parImpar.c)
 
 
