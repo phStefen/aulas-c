@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1603147713 source:d:\pessoal\programação\git\aulas-c\projetos\aula-13\positivonegativo\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+

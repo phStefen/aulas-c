@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1601342702 source:d:\pessoal\programação\git\aulas-c\projetos\aula-12\intervalos\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+

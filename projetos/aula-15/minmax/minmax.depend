@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1604335875 source:d:\pessoal\programação\git\aulas-c\projetos\aula-15\minmax\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+

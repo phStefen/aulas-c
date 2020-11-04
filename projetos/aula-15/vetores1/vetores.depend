@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1604320122 source:d:\pessoal\programação\git\aulas-c\projetos\aula-15\vetores1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
