@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1604504116 source:d:\pessoal\programação\git\aulas-c\projetos\aula-16\nova pasta\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+
